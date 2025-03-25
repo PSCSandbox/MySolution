@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "504fa215-2323-4382-80b7-fc75ff94223e",
+      "name": "mysolution.w1",
+      "publisher": "Allgeier Inovar GmbH",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
@@ -20,9 +27,7 @@
       "to": 51100
     }
   ],
-  "features": [
-    "NoImplicitWith"
-  ],
+  "features": ["NoImplicitWith"],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
