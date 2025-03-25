@@ -1,5 +1,6 @@
 {
-  "country": "us",
+  "country": "dk",
   "appFolders": [],
-  "testFolders": []
+  "testFolders": [],
+  "artifact": "bcartifacts/sandbox/23.0.12034.13450/dk/closest"
 }
