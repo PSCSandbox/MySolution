@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "f4b69b55-c90d-4937-8f53-2742898fa948",
+      "name": "Continia Document Output",
+      "publisher": "Continia Software",
+      "version": "25.1.0.266504"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
@@ -20,9 +27,7 @@
       "to": 52100
     }
   ],
-  "features": [
-    "NoImplicitWith"
-  ],
+  "features": ["NoImplicitWith"],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
