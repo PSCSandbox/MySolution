@@ -3,7 +3,7 @@
   "appFolders": [],
   "testFolders": [],
   "artifact": "bcartifacts/sandbox/23.0.12034.13450/dk/closest",
-  "repoVersion": "1.1",
+  "repoVersion": "1.2",
   "appDependencyProbingPaths": [
     {
       "repo": ".",
