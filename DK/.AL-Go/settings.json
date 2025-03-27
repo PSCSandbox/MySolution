@@ -2,7 +2,7 @@
   "country": "dk",
   "appFolders": [],
   "testFolders": [],
-  "repoVersion": "1.1",
+  "repoVersion": "1.2",
   "appDependencyProbingPaths": [
     {
       "repo": ".",
