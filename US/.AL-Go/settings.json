@@ -3,7 +3,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "repoVersion": "1.2",
+  "repoVersion": "25.2",
   "appDependencyProbingPaths": [
     {
       "repo": ".",
