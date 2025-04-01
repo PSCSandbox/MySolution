@@ -2,7 +2,7 @@
   "id": "504fa215-2323-4382-80b7-fc75ff94223e",
   "name": "mysolution.w1",
   "publisher": "Allgeier Inovar GmbH",
-  "version": "1.2.0.0",
+  "version": "25.2.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -20,14 +20,16 @@
   ],
   "screenshots": [],
   "platform": "25.0.0.0",
-  "application": "25.0.0.0",
+  "application": "25.2.0.0",
   "idRanges": [
     {
       "from": 52000,
       "to": 52100
     }
   ],
-  "features": ["NoImplicitWith"],
+  "features": [
+    "NoImplicitWith"
+  ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,

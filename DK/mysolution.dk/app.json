@@ -2,7 +2,7 @@
   "id": "64f23a8a-0ff8-4280-8e24-80fc93eff9f8",
   "name": "mysolution.dk",
   "publisher": "Allgeier Inovar GmbH",
-  "version": "1.2.0.0",
+  "version": "25.2.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -15,21 +15,19 @@
       "id": "504fa215-2323-4382-80b7-fc75ff94223e",
       "name": "mysolution.w1",
       "publisher": "Allgeier Inovar GmbH",
-      "version": "1.2.0.0"
+      "version": "25.2.0.0"
     }
   ],
   "screenshots": [],
   "platform": "25.0.0.0",
-  "application": "25.0.0.0",
+  "application": "25.2.0.0",
   "idRanges": [
     {
       "from": 51000,
       "to": 51100
     }
   ],
-  "features": [
-    "NoImplicitWith"
-  ],
+  "features": ["NoImplicitWith"],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
