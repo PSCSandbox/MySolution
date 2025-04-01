@@ -12,6 +12,6 @@
     }
   ],
   "installApps": [
-    "https://www.fornav.com/products/rep/runtime/?bcversion=latest"
+    "https://azsadevautomation01.blob.core.windows.net/extensions-3rdparty/ForNAV/CustomizableReportPack_BC26.0_8_0_2600_2.zip?sv=2023-01-03&st=2025-04-01T12%3A30%3A34Z&se=2025-04-02T12%3A30%3A34Z&sr=b&sp=r&sig=x%2FFsIVS%2BPBxzGhw%2Br7HiToOIVhbN%2BhQ9yuqm3ugY6o8%3D"
   ]
 }
