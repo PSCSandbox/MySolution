@@ -10,5 +10,8 @@
       "release_status": "include",
       "projects": "W1"
     }
+  ],
+  "installApps": [
+    "https://www.fornav.com/products/rep/runtime/?bcversion=latest"
   ]
 }
