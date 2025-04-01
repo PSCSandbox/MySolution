@@ -10,5 +10,8 @@
       "release_status": "include",
       "projects": "W1"
     }
+  ],
+  "installApps": [
+    "https://azsadevautomation01.blob.core.windows.net/extensions-3rdparty/ForNAV/CustomizableReportPack_BC26.0_8_0_2600_2_original.zip?sv=2023-01-03&st=2025-04-01T12%3A41%3A23Z&se=2025-04-02T12%3A41%3A23Z&sr=b&sp=r&sig=dJgam62e6f9lVQDfUhFD%2BsTorvH3hFTpbPeir2eDeKo%3D"
   ]
 }
