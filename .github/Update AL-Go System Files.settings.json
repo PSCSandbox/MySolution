@@ -1,5 +1,5 @@
 {
   "workflowSchedule": {
-    "cron": "25 15 * * *"
+    "cron": "30 15 * * *"
   }
 }
