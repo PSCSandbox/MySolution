@@ -2,5 +2,15 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
   "templateSha": "31fd2c34bbe295306d352a19aa9d71dd70394f38",
-  "versioningStrategy": 2
+  "versioningStrategy": 2,
+  "ConditionalSettings": [
+    {
+      "workflows": ["Update AL-Go System Files"],
+      "settings": {
+        "workflowSchedule": {
+          "cron": "1 1 1 1 1"
+        }
+      }
+    }
+  ]
 }
