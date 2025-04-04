@@ -5,9 +5,7 @@
   "versioningStrategy": 2,
   "ConditionalSettings": [
     {
-      "workflows": [
-        "Update AL-Go System Files"
-      ],
+      "workflows": [" Update AL-Go System Files"],
       "settings": {
         "workflowSchedule": {
           "cron": "1 1 1 1 1"
