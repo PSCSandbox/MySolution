@@ -1,5 +1,0 @@
-{
-  "workflowSchedule": {
-    "cron": "45 * * * *"
-  }
-}
